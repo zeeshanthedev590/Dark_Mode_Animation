@@ -1,0 +1,31 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  overflow: hidden;
+}
+section {
+  height: 100vh;
+  background: #fafafa;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Segoe UI";
+  font-size: 30px;
+}
+.sun {
+}
+
+#darkMode {
+}
+
+svg {
+  cursor: pointer;
+}
+
+h1 {
+  color: rgb(22, 22, 22);
+}
